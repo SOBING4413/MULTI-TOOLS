@@ -363,7 +363,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 | Platform | Link |
 |----------|-----|
-| 👤 **Author** | Sobi4413 |
+| 👤 **Author** | Sobing4413 |
 | 🐙 **GitHub** | [github.com/SOBING4413](https://github.com/SOBING4413) |
 | 💬 **Discord** | [discord.gg/9nsub2yx4V](https://discord.gg/9nsub2yx4V) |---
 
