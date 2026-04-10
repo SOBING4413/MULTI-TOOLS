@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/SOBING4413/MultiTools?style=for-the-badge&logo=github)](https://github.com/SOBING4413/MultiTools)
+[![GitHub Stars](https://img.shields.io/github/stars/SOBING4413/MULTI-TOOLS?style=for-the-badge&logo=github)](https://github.com/SOBING4413/MULTI-TOOLS)
 
 <br>
 
@@ -59,8 +59,8 @@
 
 1. **Clone repository:**
    ```bash
-   git clone https://github.com/SOBING4413/MultiTools.git
-   cd MultiTools
+   git clone https://github.com/SOBING4413/MULTI-TOOLS.git
+   cd MULTI-TOOLS
    ```
 
 2. **Install dependencies:**
